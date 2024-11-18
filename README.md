@@ -1,3 +1,7 @@
+# Requirements
+
+- Node v20.14.0
+
 # How to install
 
 ```
